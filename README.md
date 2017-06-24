@@ -13,9 +13,9 @@ use bootstrap and jquery to build a better login modal
     <script src="js/jquery.metadata.js"></script>
     <script src="js/jquery.validate.min.js"></script>
     <script src="js/messages_zh.min.js"></script>
-    <font color=#0099ff><script src="js/login.js"></script></font>
+    <script src="js/login.js"></script>
 ```
- 省略几个js文件，关于页面js为文件 login.js 。文件已经上传到git
+ 关于页面主要js为文件 login.js 。文件已经上传到git
  
  ## 代码注释
  1. 表单bootstrap代码不说明，很容易。表单里边有php代码不影响阅读但是没有php环境在表单会直接显示value值，也就是一段php代码。
